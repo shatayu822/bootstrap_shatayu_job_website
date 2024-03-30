@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.navbar{
+    background-image: linear-gradient(to right,#6db9ef,#7c7c7c);
+}
+.jumbotron
+{
+    background-image: url("job_images/cover1.png");
+    height: 100vh;
+    text-shadow: 10px 20px 30px rgba(239, 95, 59, 0.5);
+}
+
+#middle{
+    justify-content: center;
+  
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+
+.card-body{
+    background-color: #9db9c2;
+}
+
+.footer{
+    background-color: #7c7c7c;
+    height: 100vh;
+    margin-top: 100px;
+}
+
+#right{
+    text-align:justify;
+    /* text-align: left; */
+}
+
+#foot{
+    margin-top: 1px;
+}
